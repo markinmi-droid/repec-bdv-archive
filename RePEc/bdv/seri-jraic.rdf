@@ -3,6 +3,7 @@ Handle: RePEc:bdv:sjraic
 Name: Journal of regional and international competitiveness
 Provider-Name: Yaroslavl State Technical University
 Provider-Institution: RePEc:edi:deoipru
-Type: ejournal
+Maintainer-Name: Sergey Skiotov
+Maintainer-Email: shkiotovsv@ystu.ru
+Type: ReDIF-Article
 ISSN: 2782-1927
-URL: https://www.jraic.com/
